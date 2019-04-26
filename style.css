@@ -1,14 +1,18 @@
-font {background-color: peru;
-
+font {
+    background-color: black;
+    color: white;
 }
+
 input {
     border: 2px lightgray;
     padding: 15px;
     margin: 12px;
     width: 300px;
 }
-nav{
-    background-color:lightgrey;
+
+nav {
+    background-color: rgb(141, 103, 103);
+    color: white;
 }
 
 main {
@@ -17,26 +21,26 @@ main {
     margin: 10px;
     height: 900px;
     width: 200px;
-    float:left;
-  }
-  
-  
-  
-    
-  }
-  aside{ 
-    border:1px;
-    padding:10px;
-    margin: 10px;
-    right:0px;
-    float:right;
-  }
-
-
-section{
-    background-color:lightgrey;
+    float: left;
 }
- 
-footer{
-    background-color:lightblue;
+
+aside {
+    border: 1px;
+    padding: 10px;
+    margin: 10px;
+    right: 0px;
+    float: right;
+}
+
+section {
+    background-color: lightgrey;
+    height: 250px;
+}
+
+footer {
+    background-color: lightblue;
+}
+
+body {
+    background-color: rgb(231, 222, 222);
 }
